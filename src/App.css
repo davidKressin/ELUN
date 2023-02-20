@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.cursor-pointer:hover{
+  cursor: pointer;
+  background-color: #00000031;
+}
+
+
+.bg-paisaje{
+  background-image: url('../public/imagenes/paisaje.jpg');
+  background-attachment: fixed;
+}
+
+.bg-trasparencia{
+  background-color: #0000008d;
+}
